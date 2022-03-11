@@ -1,0 +1,14 @@
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.AssemblyReference.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_TestWeek2\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
